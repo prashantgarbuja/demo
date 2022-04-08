@@ -1,1 +1,5 @@
-This is a Read me page.
+#Read me
+
+This is just a demo page.
+Please ignore this git directory.
+Thank you.
